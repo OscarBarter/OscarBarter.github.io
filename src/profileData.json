@@ -1,0 +1,68 @@
+{
+    "landing": {
+        "firstName": "Oscar",
+        "lastName": "Barter",
+        "phoneNumber": "07990 549412",
+        "bio": "A CS student",
+        "email": "oscarmbarter@gmail.com",
+        "linkedin": "https://www.linkedin.com",
+        "github": "https://github.com/Racso01"
+    },
+    "experience": [
+        {
+            "position": "Student",
+            "organization": "Hills Road Sixth Form College",
+            "aboutWork": "Small projects using c# with both sequential and oop.",
+            "fromDate": "Sept 2019",
+            "toDate": "Current"
+        },
+        {
+            "position": "App Developer",
+            "organization": "Company 2",
+            "aboutWork": "Details about work here",
+            "fromDate": "Date of starting",
+            "toDate": "ending date"
+        },
+		...
+   	 	...
+    		...
+    ],
+    "education": [
+        {
+            "university": "Hopefully Durham or Warwick",
+            "degree": "Major",
+            "gpa": "GPA",
+            "fromDate": "Will be Sept 2021",
+            "toDate": "Date of completion"
+        },
+    		...
+    		...
+    		...
+    ],
+    "skills": [
+        {
+            "name": "C# "
+        },
+        {
+            "name": "C++"
+        },
+    		...
+    		...
+    		...
+    ],
+    "interests": {
+        "paragraphOne": "I like triathlons and often train with my local club",
+        "paragraphTwo": "Descriptive detail about your interests for paragraph two"
+    },
+    "awards": [
+        {
+            "awardDetail": "GCSE's"
+        },
+        {
+            "awardDetail": "Your second award"
+        },
+    		...
+    		...
+    		...
+    ]
+}
