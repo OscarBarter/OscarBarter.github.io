@@ -22,10 +22,8 @@
             "aboutWork": "Details about work here",
             "fromDate": "Date of starting",
             "toDate": "ending date"
-        },
-		...
-   	 	...
-    		...
+        }
+
     ],
     "education": [
         {
@@ -34,10 +32,8 @@
             "gpa": "GPA",
             "fromDate": "Will be Sept 2021",
             "toDate": "Date of completion"
-        },
-    		...
-    		...
-    		...
+        }
+
     ],
     "skills": [
         {
@@ -45,10 +41,8 @@
         },
         {
             "name": "C++"
-        },
-    		...
-    		...
-    		...
+        }
+
     ],
     "interests": {
         "paragraphOne": "I like triathlons and often train with my local club",
@@ -60,9 +54,7 @@
         },
         {
             "awardDetail": "Your second award"
-        },
-    		...
-    		...
-    		...
+        }
+
     ]
 }
